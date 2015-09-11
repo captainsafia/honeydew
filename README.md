@@ -1,2 +1,2 @@
 # honeydew
-An interactive REPL for exploratory data analytics
+An R-like data frame written in Go
